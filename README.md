@@ -43,10 +43,10 @@ Alongside my studies in Biomedical Science at university, I have been working in
 ## <a name="projects">What I've been working on (Projects) 👨🏻‍💻</a>
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **My-website** | My very own persoanl portfolio website. Check it out! | React, Javascript , SCSS, Netify |
-| **AceBook** | A facebook clone | MongoDB, Express, Node.js, Handlebars, Jest, Cypress             |
-| **Loyal-Bean** | Two mobile applications (for independent coffee shop owners and customers respectively) to replace physical loyalty cards | React Native, Node.js, Express, MongoDB Atlas, Heroku, Android Studio, XCode              |
-| **MakersBnB**            | An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night  | Ruby, Postgresql, RSpec|
+| [My-website](https://github.com/IbrahimPala1/personal-website) | My very own persoanl portfolio website. Check it out! | React, Javascript , SCSS, Netify |
+| [AceBook](https://github.com/IbrahimPala1/acebook-node-priceless)| A facebook clone | MongoDB, Express, Node.js, Handlebars, Jest, Cypress             |
+| [Loyal-Bean](https://github.com/IbrahimPala1/bean-app) | Two mobile applications (for independent coffee shop owners and customers respectively) to replace physical loyalty cards | React Native, Node.js, Express, MongoDB Atlas, Heroku, Android Studio, XCode              |
+| [MakersBnB](https://github.com/IbrahimPala1/makersbnb)| An AirBnB clone that allows users to list spaces that they have available and to hire spaces for the night  | Ruby, Postgresql, RSpec|
 
 ## <a name="education">Education 📚</a>
 #### Makers Academy (04/2022 to 08/2022)
