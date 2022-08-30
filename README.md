@@ -30,7 +30,7 @@ Alongside my studies in Biomedical Science at university, I have been working in
 ## <a name="tech-stack">Tech stack 🔧</a> 
 
 
-<img src="./images/JavaScript.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/Node-js.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/Jest.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/download.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/RSpec.jpeg" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/PSQL.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/MongoDb.jpeg" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/HTML5.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CSS.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/React-native.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img>
+<img src="./images/JavaScript.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/Node-js.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/Jest.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/download.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/RSpec.jpg" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/PSQL.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/MongoDb.jpg" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/HTML5.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/CSS.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/React-native.png" height="60px">&nbsp;&nbsp;&nbsp;&nbsp;<img>
 
 - Javascript (Node.js, Express, Jest, Handlebars, React, React Native)
 - Ruby (Sinatra, RSpec, Capybara)
