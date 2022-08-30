@@ -105,6 +105,7 @@ performance in a short period of 4 months.
  
 **Fast learner and Time-management**
 - During my time at makers i took on the ambitiouse challenge of building a coffee loyalty app using react native and deploying it onto a mobile phone. I had no prior knowledge of react native or how to deploy an app onto a mobile phone, so had to teach myself the new language and build the app in only two weeks. Through excellent time-managment and quick learning skills i was able to learn the language, build two apps for mobile and have time to add additional features such as QR code scanner.
+
 - 
 
 **Thrives under pressure**
