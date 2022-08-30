@@ -115,7 +115,7 @@ performance in a short period of 4 months.
  
 ## <a name="interests">When I'm not coding (Interests)</a>
 
-- 📚 Reading: Just finished https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/0735211299; a book about the effect small habits can have on productivity and achieving goals. A great investment, 10/10 would recommend. 
+- 📚 Reading: Just finished [Atomic Habits](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/0735211299); a book about the effect small habits can have on productivity and achieving goals. A great investment, 10/10 would recommend. 
 - 🏞 Languages: Fluent in Turkish and currently on the pursuet on becoming fluent in arabic.
 -  ✈️ I love travelling around the world, learnng about history of the world and understanding different cultures. 
 -  🏋🏻‍♂️ Sports: From being a balck belt in karate since the age of 11 to competing in ameteaur competions for boxing and table-tennis, ive always been a huge sports enthusiast. I make sure to exercise at least 30 minutes eveyrday.   
