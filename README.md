@@ -111,15 +111,6 @@ performance in a short period of 4 months.
 
 - My post-graduate studies involved frequent General Practice placements. In a partcualryl busy day, during a walk in clinic, two out of 3 GP's had not attened work as they had been diagnosed with covid. Patients began to feel increasingly frustrated and the GP was overhwklmed. Understanding the severity of the situation i decided to take ownership by dividing the patients in two groups depending on the urgency of their visit. I would direct the compliated cases to the GP whilst taking care of the simpler cases.  As a result we avoided patients filing complaints and also avoided patients walking away without being seen. 
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
  
 ## <a name="interests">When I'm not coding (Interests)</a>
 
