@@ -1,7 +1,7 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
 ![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
-![Status](https://img.shields.io/badge/Status-Probably_listening_to_music-ff69b4)
-![Last updated](https://img.shields.io/badge/Last_updated-June_2020-blue)
+![Status](https://img.shields.io/badge/Status-Available-pink)
+![Last updated](https://img.shields.io/badge/Last%20Updated-August%202022-blue)
 ![Version](https://img.shields.io/badge/Version-The_original-blueviolet)
 
 <div align="center">
