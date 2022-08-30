@@ -97,16 +97,11 @@ performance in a short period of 4 months.
 **Excellent communicator and team player**
 - in the Makers bootcamp, pair programming and team-work was a daily process for me. I worked on 3 engineering projects in teams consisting of 4-6 members which required constant collobartion and team work. We rotated pairs everyday within the team and had frequent stand ups to update the team on progress and overcome any obstacles a team member may have. Prior to the engineering projects i would spend everyday pairing with a new partner to learn TDD, the web, databases, javascript and ruby. This exposure to constant pairing and team work has drastically built on my team working and communication skills; particually in an engineering team environment. 
 
-- Having worked in technology sales for 4 years, i would spend all day communicating with team members and customers effectively in order to meet sales targets and build the trust and loyalty of customers. 
-
 **Attention to detail and analytical skills**
 - In my post-graduate medical studies i would take patient history and symptoms in order to come up with a diagnoses. Furthermore i would evelauete laboratory results to rule out certain conditions. A simple mistake could have fatal consequences to patients well-being therefore having excellent attention to detail and analysing data accurately was crucial. The pressure of not having the space to make mistakes has made me excellent in analytcial thinking and taking on additional attention to detail. 
 
- 
 **Fast learner and Time-management**
 - During my time at makers i took on the ambitiouse challenge of building a coffee loyalty app using react native and deploying it onto a mobile phone. I had no prior knowledge of react native or how to deploy an app onto a mobile phone, so had to teach myself the new language and build the app in only two weeks. Through excellent time-managment and quick learning skills i was able to learn the language, build two apps for mobile and have time to add additional features such as QR code scanner.
-
-- 
 
 **Thrives under pressure**
 - Working in technology sales was a fast paced and high pressure environment. Throughout covid, staff including management would frequently unattend work due to illness or fear of vulnerability. As a result i was given the responsbility to lead my department. Prior to me taking over, low staff numbers and high customer demand created an overwheming and frustrating environemnt. To solve this i introduced a queing system, in which i would reassure customers and direct them to the next availble colleague in an organised and timely manner. Using this strergy i was able to diminish customer frustration and take pressure of my team. In result my team had recieved the highest customer satisfaction and performed above targets in terms of api targets. 
