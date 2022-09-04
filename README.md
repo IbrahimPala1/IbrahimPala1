@@ -100,6 +100,8 @@ performance in a short period of 4 months.
 **Attention to detail and analytical skills** 
 - In my post-graduate medical studies, I would take a patient's history and symptoms to come up with a diagnosis. Furthermore, I would evaluate laboratory results to rule out certain conditions. A simple mistake could have fatal consequences to a patient's well-being therefore having excellent attention to detail and analyzing data accurately was crucial. The pressure of not having the space to make mistakes has made me excellent in analytical thinking and taking additional attention to detail.
 
+- My undergraduate studies consisted of frequent laboratory experiments. During these experiments, I would undergo complex biomedical procedures such as DNA sequencing, Blood grouping, and biochemical testing which required excellent attention to detail and analytical skills. The smallest of mistakes could result in misdiagnoses, leading to the failure of an experiment. Furthermore, I would analyze and evaluate the results obtained from the experiments using graphs and diagrams. These experiments and constant evaluation of data have significantly contributed to my analytical thinking skills and attention to detail skills.
+
 **Fast learner and Time-management**
 - During my time at makers, I took on the ambitious challenge of building a coffee loyalty app using react native and deploying it onto a mobile phone. I had no prior knowledge of react native or how to deploy an app onto a mobile phone, so had to teach myself the new language and build the app in only two weeks. Through excellent time management and quick learning skills, I was able to learn the language, build two apps for mobile and have time to add additional features such as a QR code scanner.
 
