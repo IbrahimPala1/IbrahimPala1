@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Available-pink)
 ![Last updated](https://img.shields.io/badge/Last%20Updated-August%202022-blue)
 ![Version](https://img.shields.io/badge/Version-The_original-blueviolet)
-
+ 
 <div align="center"> 
 
 ## Ibrahim Pala (ibrahimpala2019@gmail.com)
