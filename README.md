@@ -71,8 +71,11 @@ Alongside my studies in Biomedical Science at university, I have been working in
 **Company Name** (Sep.2022)  
 _Elsevier • Software engineering work experience_
 
-- Reviewed a pull request and corrected 
-- Attended retros, stand ups and weekly reviews with engineering team to 
+- Reviewed feedback from the QA engineer and corrected code.
+- Fixed bugs and submitted pull requests for review.
+- I gained further experience of what working in an agile team consists of.
+- Learnt Elseviers engineering processes and the importance of different roles in an agile team. 
+- Attended retros, stand-ups, and weekly reviews with the engineering team to update on progress and plan future steps.
 
 **Company Name** (Aug.2017 – Sep.2021)  
 _Dixons Carphone • Tech Sales Consultant_
