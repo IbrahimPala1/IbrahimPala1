@@ -11,7 +11,7 @@
 <a href="https://ibrahim-pala.netlify.app"><img src="images/www.png" width="95" alt="My website" align="left"></a>
 <img src="images/white_space.jpg" width="60" height="90">
 <a href="https://www.linkedin.com/in/ibrahim-pala-100260205/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
-<img src="images/white_space.jpg" width="250" height="90">
+<img src="images/white_space.jpg" width="60" height="90">
 <a href="https://www.codewars.com/users/Ipala1"><img src="images/codewars.png" width="100" alt="Codewars"></a>
 
 #
