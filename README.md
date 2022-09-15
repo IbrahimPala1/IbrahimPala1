@@ -68,6 +68,12 @@ Alongside my studies in Biomedical Science at university, I have been working in
 
 ## <a name="experience">Where I've been contributing (Experience) 👨🏻‍💼</a>
 
+**Company Name** (Sep.2022)  
+_Elsevier • Software engineering work experience_
+
+- Reviewed a pull request and corrected 
+- Attended retros, stand ups and weekly reviews with engineering team to 
+
 **Company Name** (Aug.2017 – Sep.2021)  
 _Dixons Carphone • Tech Sales Consultant_
 
