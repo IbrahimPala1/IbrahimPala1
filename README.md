@@ -21,11 +21,11 @@
  </div>
  
 
-## <a name="about_me">About me (in a nutshell) 😄</a>
+## <a name="about_me">About me (in a nutshell) 😄</a> 
 
-I am a diciplined and ambitious Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge.
+I am a disciplined and ambitious Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge.
 
-Alongside my studies in Biomedical Science at university, I have been working in technology sales whilst running my own shopify and rent to rent businesses. After graduating from my bachelors i had started studying post-graduate medicine before deciding to take a carrer change to pursue my passion for coding. Although my interest for coding was apparent since a-leveles, it took me till my masters to realise a career around coding is where my passions and desires lie. After spending time working on my coding and problem solving skills, i enrolled onto makers academies intensive 16 week bootcamp to learn coding to an industry level and make my dreams come true. 
+Alongside my studies in Biomedical Science at university, I have been working in technology sales whilst running my own Shopify and rent-to-rent businesses. After graduating with my bachelor's I started studying post-graduate medicine before deciding to take a career change to pursue my passion for coding. Although my interest in coding was apparent since a level's, it took me till my master's to realize a career around coding is where my passions and desires lie. After spending time working on my coding and problem-solving skills, I enrolled in makers academies' intensive 16-week Bootcamp to learn coding to an industry level and make my dreams come true.
 
 ## <a name="tech-stack">Tech stack 🔧</a> 
 
