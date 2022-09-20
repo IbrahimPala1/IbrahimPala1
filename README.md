@@ -3,18 +3,19 @@
 ![Status](https://img.shields.io/badge/Status-Available-pink)
 ![Last updated](https://img.shields.io/badge/Last%20Updated-August%202022-blue)
 ![Version](https://img.shields.io/badge/Version-The_original-blueviolet)
- 
-<div align="center"> 
 
 ## Ibrahim Pala (ibrahimpala2019@gmail.com)
 
 <a href="https://ibrahim-pala.netlify.app"><img src="images/www.png" width="95" alt="My website" align="left"></a>
-<img src="images/white_space.jpg" width="20" height="90">
+<img src="images/white_space.jpg" width="270" height="90">
 <a href="https://www.linkedin.com/in/ibrahim-pala-100260205/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
-<img src="images/white_space.jpg" width="250" height="90">
+<img src="images/white_space.jpg" width="270" height="90">
 <a href="https://www.codewars.com/users/Ipala1"><img src="images/codewars.png" width="100" alt="Codewars"></a>
 
 #
+ 
+<div align="center"> 
+
 
 [About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
  
