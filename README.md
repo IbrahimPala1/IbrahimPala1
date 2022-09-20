@@ -50,11 +50,11 @@ Alongside my studies in Biomedical Science at university, I have been working in
 
 ## <a name="education">Education 📚</a>
 #### Makers Academy (04/2022 to 08/2022)
-- Frequently utiliased pair programming in order to problem solve effeciently, requiring teamwork and communication.
+- Frequently utiliased pair programming to problem solve efficiently, requiring teamwork and communication.
 - Built three different projects working in agile teams, focused on following the MVP model and Test-driven-development process.
-- Used Ruby and Javascript to practice object oriented desgin and build numerouse small applications using the process. 
-- Learnt RSpec and Jasmine testing tools to Test drive small applications and group projects.
-- In only two weeks, learnt react-native from scratch and built two mobile applications that interact via a backend and deployed the apps onto an ios and andriod phone. 
+- Used Ruby and Javascript to practice object-oriented design and build numerous small applications using the process.
+- Learned RSpec and Jasmine testing tools to Test drive small applications and group projects.
+- In only two weeks, learned react-native from scratch and built two mobile applications that interact via a backend, and deployed the apps onto IOS and android phones. 
 
 #### University of Hertfordshire (09/2021 to 04/2022)
 
